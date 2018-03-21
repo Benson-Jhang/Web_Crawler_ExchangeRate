@@ -1,0 +1,30 @@
+Finished:2017-09-19 23:02:58.112403
+Error:list index out of range
+Error:('list index out of range',)
+Error:None
+Error:list index out of rangeexception in line89
+Error:list index out of rangeexception in line89
+Error:2017-09-20 01:07:05.707087list index out of rangeexception in line89
+Finished:2017-09-20 01:07:43.698320
+Error:2017-09-25 14:37:38.484887list index out of rangeexception in line89
+Error:2017-09-25 14:38:25.981972list index out of rangeexception in line89
+Error:2017-09-25 14:40:29.707193list index out of rangeexception in line89
+Finished:2017-09-25 14:51:05.867982
+Finished:2017-09-25 15:09:22.972874
+Finished:2017-09-25 15:09:25.112505
+Error:2017-09-26 01:05:46.875500unsupported operand type(s) for +: 'int' and 'str'exception in line83
+Finished:2017-09-26 01:06:49.364893
+Finished:2017-09-26 01:09:39.962258
+Error:2017-10-05 18:24:45.115905list index out of rangeexception in line96
+2017-10-05 18:32:42.528586
+2017-10-05 18:34:09.969363
+Finished:2017-10-05 18:40:05.006909
+Finished:2017-10-06 00:15:08.704293
+Finished:2017-10-06 00:17:03.897002
+Error:2017-10-10 01:00:17.155962list index out of rangeexception in line98
+Finished:2017-10-10 01:04:33.759477
+Finished:2017-10-11 21:17:26.020733
+2017-10-12 10:57:28.256339
+Finished:2017-10-12 11:08:43.657110
+Finished:2017-10-17 00:53:58.646304
+Finished:2017-10-19 00:27:37.620559
